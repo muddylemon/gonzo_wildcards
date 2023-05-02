@@ -1,0 +1,26 @@
+Alan Turing
+Dennis Ritchie
+Linus Torvalds
+Bjarne Stroustrup
+Donald Knuth
+Brian Kernighan
+Tim Berners-Lee
+Guido van Rossum
+Richard Stallman
+Larry Wall
+James Gosling
+Anders Hejlsberg
+Ken Thompson
+Niklaus Wirth
+John McCarthy
+Edsger W. Dijkstra
+Grace Hopper
+Alan Kay
+John Backus
+Steve Wozniak
+Bill Gates
+Steve Jobs
+Larry Page
+Sergey Brin
+Mark Zuckerberg
+Jack Dorsey
