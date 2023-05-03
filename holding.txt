@@ -1,0 +1,128 @@
+holding a joint
+holding a vase
+holding a basket
+holding a book
+holding a cup
+holding a taco
+holding a burrito
+holding a sandwich
+holding a burger
+holding a hotdog
+holding a pizza
+holding a plate of food
+holding a plate of spaghetti
+holding a coca cola bottle
+holding a pepsi bottle
+holding a soda bottle
+holding a water bottle
+holding a bottle of water
+holding a bottle of soda
+holding a bottle of pepsi
+holding a bottle of coca cola
+holding a bottle of juice
+holding a bottle of milk
+holding a bottle of beer
+holding a bottle of wine
+holding a bottle of champagne
+holding a bottle of liquor
+holding a bottle of vodka
+holding a bottle of whiskey
+holding a bottle of rum
+holding a bottle of tequila
+holding a bottle of gin
+holding a bottle of brandy
+holding a bottle of cognac
+holding a plate
+holding a tray
+holding a bottle
+holding a glass
+holding a jug
+holding a knife
+holding a spoon
+holding a fork
+holding a bowl
+holding a box
+holding a bag
+holding a suitcase
+holding a camera
+holding a phone
+holding a racket
+holding a bat
+holding a ball
+holding a cellphone
+holding a vape
+holding a cigarette
+holding a cigar
+holding a gun
+holding a rifle
+holding a pistol
+holding a shotgun
+holding a bow
+holding a sword
+holding a tub of worms 
+holding a fishing rod
+holding a fishing net
+holding a fishing hook
+holding a laundry basket
+holding a mop
+holding a broom
+holding a vacuum
+holding a duster
+holding a feather duster
+holding a feather
+holding a paintbrush
+holding a pencil
+holding a pen
+holding a marker
+holding a crayon
+holding chalk
+holding a paint roller
+holding a paint tray
+holding a paint can
+holding a paint bucket
+holding a paint brush
+holding a baby
+holding a child
+holding a toddler
+holding a dog
+holding a cat
+holding a bird
+holding a fish
+holding a hamster
+holding a guinea pig
+holding a rabbit
+holding a mouse
+holding a rat
+holding a snake
+holding a lizard
+holding a frog
+holding a bowl of noodles
+holding a bowl of soup
+holding a bowl of cereal
+holding a bowl of rice
+holding a receipt
+holding a ticket
+holding a card
+holding a gift
+holding a present
+holding a box of chocolates
+holding a box of candy
+holding a box of cookies
+holding a box of donuts
+holding a cake
+holding a pie
+holding a cupcake
+holding a video game controller
+holding a game controller
+holding a remote
+holding a tv remote
+holding a remote control
+holding a joystick
+holding a steering wheel
+holding a car key
+holding a house key
+holding a key
+holding the door
+holding a bong 
+holding a pipe
+holding a pound of weed
