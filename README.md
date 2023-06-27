@@ -18,3 +18,7 @@ and you will get something like:
 
 `cartoon drawing of Ray Charles , trending on artstation, HD, ((high quality)), vibrant color scheme, character design`
 
+
+## Sample Prompts
+
+`detailed illustration of  __gonzo_wildcards/people/marvel__  __gonzo_wildcards/activity__ , hd, trending, ((high quality))`
