@@ -33,3 +33,12 @@ moaning in pain
 moaning in pleasure
 moaning in frustration
 screaming in terror
+crying in agony
+crying in frustration
+crying in anger
+crying in fear
+crying in joy
+frowning in anger
+frowning in frustration
+frowning in confusion
+frowning in sadness
