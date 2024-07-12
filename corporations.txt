@@ -1,0 +1,101 @@
+American Express
+FedEx
+General Electric
+Caterpillar
+Boeing
+Lockheed Martin
+General Motors
+Ford
+IBM
+Intel
+Microsoft
+Apple
+Amazon
+Google
+Facebook
+Bayer
+Bank of America
+Wells Fargo
+Tesla
+SpaceX
+Unilever
+Procter & Gamble
+Johnson & Johnson
+Pfizer
+Merck
+Samsung
+Sony
+Toyota
+Honda
+Nissan
+Hyundai
+Volkswagen
+BMW
+Mercedes-Benz
+Audi
+Lufthansa
+Emirates
+Qatar Airways
+Airbus
+Kraft
+Nestle
+PepsiCo
+Coca-Cola
+McDonald's
+Starbucks
+Walmart
+Target
+Home Depot
+Lowe's
+Costco
+Walgreens
+CVS
+Rite Aid
+Budweiser
+Coke
+Pepsi
+Modelo
+Heineken
+Corona
+Miller Lite
+Bud Light
+Coors Light
+Guinness
+Jameson
+Nintendo
+PlayStation
+Xbox
+Sega
+Atari
+Disney
+Warner Bros
+Universal
+Viacom
+Fox
+CBS
+NBC
+ABC
+CNN
+FOX News
+MSNBC
+Halliburton
+ExxonMobil
+Chevron
+BlackRock
+JPMorgan Chase
+Goldman Sachs
+Louis Vuitton
+Gucci
+Prada
+Chanel
+Rolex
+Ralph Lauren
+Calvin Klein
+Tommy Hilfiger
+H&M
+Zara
+Forever 21
+JC Penney
+Macy's
+The North Face
+Patagonia
